@@ -1,8 +1,7 @@
 Hello
 I am Aravind R Krishnan
-<<<<<<< HEAD
+ HEAD
 
-=======
 Sreenilayam
 Kalavamkodam
 Cherthala.
@@ -10,7 +9,11 @@ Arun R Krishnan
 text messages
 
 Another Address 
->>>>>>> feature
+
+
 
 araind r krishanan fist file change
 FIRST FILE CHANGED
+
+HELLO How are you?
+
